@@ -161,9 +161,10 @@ Some screenshots
 
 <img width="939" height="409" alt="image" src="https://github.com/user-attachments/assets/1b904c7b-6c15-4773-9bb3-622ed86b0941" />
 
-# Overall, I observed an average performance uplift of around 20 MSPT. However, the most crucial difference appeared once I reached 1k simulated players:
- **MeowIce’s flags consistently held around 30–35 MSPT**
- **Aikar’s flags spiked to and held around 90–95 MSPT**
+  Overall, I observed an average performance uplift of around 20 MSPT. 
+  However, the most crucial difference appeared once I reached 1k simulated players:
+  **MeowIce’s flags consistently held around 30–35 MSPT**
+  **Aikar’s flags spiked to and held around 90–95 MSPT**
 
 I did my best to minimize variance in the testing process. Please disregard the [initial](https://i.imgur.com/Mw1hkXx.png) segment of the data, as it isn’t relevant due to me forgetting to kill all entities (they were removed on Aikar’s setup from the star).
 This oversight does not affect the main conclusion: MeowIce’s flags demonstrated a significant performance advantage over Aikar’s.
