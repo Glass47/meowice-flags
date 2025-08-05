@@ -169,6 +169,7 @@ Some screenshots
   **Aikar’s flags spiked to and held around 90–95 MSPT**
 
 I did my best to minimize variance in the testing process. Please disregard the [initial](https://i.imgur.com/Mw1hkXx.png) segment of the data, as it isn’t relevant due to me forgetting to kill all entities (they were removed on Aikar’s setup from the star).
+
 This oversight does not affect the main conclusion: **MeowIce’s flags demonstrated a significant performance advantage over Aikar’s.**
 
 You can confirm these findings by reviewing the Grafana snapshots. 
